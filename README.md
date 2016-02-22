@@ -7,17 +7,15 @@ Remove multiple videos at same time from play list.<br/>
 Play videos from phone or playlist.<br/>
 Android Material design.<br/>
 Android toolbar.<br/>
-1. Sign On
-![alt tag](https://github.com/RamIndani/MyTube/blob/master/screenshots/1.png)
-2. List videos
-![alt tag](https://github.com/RamIndani/MyTube/blob/master/screenshots/2.png)
-3. Display Playlist
-![alt tag](https://github.com/RamIndani/MyTube/blob/master/screenshots/3.png)
-4. Remove videos from playlist
-![alt tag](https://github.com/RamIndani/MyTube/blob/master/screenshots/4.png)
-5. Search videos
-![alt tag](https://github.com/RamIndani/MyTube/blob/master/screenshots/5.png)
-6. Play videos
-![alt tag](https://github.com/RamIndani/MyTube/blob/master/screenshots/6.png)
-
-
+1. Sign On<br/>
+<img src = "https://github.com/RamIndani/MyTube/blob/master/screenshots/1.png"  height ="420"/><br/>
+2. List videos<br/>
+<img src = "https://github.com/RamIndani/MyTube/blob/master/screenshots/2.png"  height="420"/><br/>
+3. Display Playlist<br/>
+<img src = "https://github.com/RamIndani/MyTube/blob/master/screenshots/3.png"  height="420"/><br/>
+4. Remove videos from playlist<br/>
+<img src = "https://github.com/RamIndani/MyTube/blob/master/screenshots/4.png"  height="420"/><br/>
+5. Search videos<br/>
+<img src = "https://github.com/RamIndani/MyTube/blob/master/screenshots/5.png"  height="420"/><br/>
+6. Play videos<br/>
+<img src = "https://github.com/RamIndani/MyTube/blob/master/screenshots/6.png"  height="420"/><br/>
